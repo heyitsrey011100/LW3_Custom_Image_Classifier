@@ -46,4 +46,6 @@ Step 3: Compile the Model
 
 <img width="1794" height="155" alt="image" src="https://github.com/user-attachments/assets/154e505b-45ec-43ba-beda-9dc20d8996a4" />
 
-Step 4: Train the Model
+Step 4: Train Model
+
+
