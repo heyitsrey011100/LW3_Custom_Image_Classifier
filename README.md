@@ -7,7 +7,6 @@ Part 1: Preparing and Loading Custom Images from Google Drive
 
 <img width="1913" height="875" alt="image" src="https://github.com/user-attachments/assets/d19ea75c-0e14-4e81-921a-41bca5ea760e" />
 
-
 Step 2: Upload Dataset to Google Drive
 
 <img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/a76d800b-cdbd-4fd0-b81b-8028a6f88d1c" />
@@ -48,40 +47,3 @@ Step 3: Compile the Model
 <img width="1794" height="155" alt="image" src="https://github.com/user-attachments/assets/154e505b-45ec-43ba-beda-9dc20d8996a4" />
 
 Step 4: Train the Model
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
